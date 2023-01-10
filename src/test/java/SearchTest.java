@@ -19,5 +19,6 @@ public class SearchTest {
     }
 
     void test(){
+        String text = "kevin";
     }
 }
